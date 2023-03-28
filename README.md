@@ -18,7 +18,7 @@ Next, to install the project dependencies run:
 `npm install nodemon express googleapis`
 
 you might have to run:
-`npm install nodemon express googleapis -g`
+`npm install nodemon express googleapis ejs -g`
 this second command installs these dependencies globally rather than to the local folder.
 
 when you do this you should see a folder called node_modules, a file called package.json, and a file called package-lock.json. 
