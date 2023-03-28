@@ -26,4 +26,4 @@ when you do this you should see a folder called node_modules, a file called pack
 If you see those then run 
 `nodemon index.js` 
 and open up your browser of choice to the url
-<a href="http://localhost:3000/"> http://localhost:3000/content.js </a>
+<a href="http://localhost:3000/v1/levels/placement/1"> http://localhost:3000/v1/levels/placement/1 </a>
